@@ -2,7 +2,7 @@ var grid;
 var mover;
 var endPoints = [];
 function setup() {
-  let res = 5;
+  let res = 10;
   let r = Math.floor(innerHeight/res)
   let c = Math.floor(innerWidth/res)
   let algorithm = 1;
